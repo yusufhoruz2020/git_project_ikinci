@@ -7,7 +7,7 @@ public class Deneme {
 		System.out.println("Ikinci git projem.");
 		System.out.println("guncelleme");
 		System.out.println("remote degisiklik");
-	
+		System.out.println("cakisma-oguzhan");
 	}
 
 }
